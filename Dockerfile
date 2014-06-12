@@ -1,4 +1,6 @@
-FROM base
+#FROM base
+
+FROM demeternacl/centos-6.3
 
 MAINTAINER tcnksm "https://github.com/tcnksm"
 
